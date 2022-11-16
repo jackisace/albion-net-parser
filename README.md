@@ -10,15 +10,15 @@ There is actually a lot more data than shown but it has been hidden to make scre
 
 
 
-##structure
+## structure
 
 ![alt text](https://github.com/jackisace/albion-net-parser/blob/master/pictures/structure.png?raw=true)
 
 
-##moving vs still
+## moving vs still
 
 ![alt text](https://github.com/jackisace/albion-net-parser/blob/master/pictures/moving%20vs%20still.png?raw=true)
 
-##message id
-
+## message id?
+each time increments by 1
 ![alt text](https://github.com/jackisace/albion-net-parser/blob/master/pictures/message%20ID.png?raw=true)
