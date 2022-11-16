@@ -22,3 +22,8 @@ There is actually a lot more data than shown but it has been hidden to make scre
 ## message id?
 each time increments by 1
 ![alt text](https://github.com/jackisace/albion-net-parser/blob/master/pictures/message%20ID.png?raw=true)
+
+
+## interruptions
+maybe when there is an interruption the structure changes??
+![alt text](https://github.com/jackisace/albion-net-parser/blob/master/pictures/interruptions.png?raw=true)
